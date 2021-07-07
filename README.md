@@ -1,6 +1,4 @@
-### Hello there, I'm Jeffy
-
-Font-end R&D ｜ Software engineer 🧑‍💻
+### Hello there, I'm Jeffy 🧑‍💻
 
 Living the dream in Shenzhen
 
