@@ -2,4 +2,4 @@
 
 Living the dream in Shenzhen
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luckyJeffy&theme=noctis_minimus)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luckyJeffy&theme=default)
